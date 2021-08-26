@@ -1,0 +1,13 @@
+C:\Users\Castro\source\repos\shop-be\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Castro\source\repos\shop-be\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Castro\source\repos\shop-be\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Castro\source\repos\shop-be\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+C:\Users\Castro\source\repos\shop-be\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Castro\source\repos\shop-be\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+C:\Users\Castro\source\repos\shop-be\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\Castro\source\repos\shop-be\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\Castro\source\repos\shop-be\Infrastructure\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\Castro\source\repos\shop-be\Infrastructure\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\Castro\source\repos\shop-be\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\Castro\source\repos\shop-be\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\Castro\source\repos\shop-be\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CopyComplete

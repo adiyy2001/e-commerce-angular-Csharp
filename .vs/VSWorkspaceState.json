@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Core\\Entities",
+    "\\Infrastructure",
+    "\\Infrastructure\\Data",
+    "\\Infrastructure\\Data\\Migrations"
+  ],
+  "SelectedNode": "\\shop-be.sln",
+  "PreviewInSolutionExplorer": false
+}
