@@ -10,4 +10,3 @@ C:\Users\Castro\source\repos\shop-be\Infrastructure\bin\Debug\netcoreapp3.1\Core
 C:\Users\Castro\source\repos\shop-be\Infrastructure\bin\Debug\netcoreapp3.1\Core.pdb
 C:\Users\Castro\source\repos\shop-be\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
 C:\Users\Castro\source\repos\shop-be\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
-C:\Users\Castro\source\repos\shop-be\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CopyComplete
