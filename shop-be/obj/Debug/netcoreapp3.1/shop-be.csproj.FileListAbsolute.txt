@@ -60,3 +60,6 @@ C:\Users\Castro\source\repos\shop-be\shop-be\bin\Debug\netcoreapp3.1\Infrastruct
 C:\Users\Castro\source\repos\shop-be\shop-be\bin\Debug\netcoreapp3.1\Infrastructure.pdb
 C:\Users\Castro\source\repos\shop-be\shop-be\bin\Debug\netcoreapp3.1\Core.pdb
 C:\Users\Castro\source\repos\shop-be\shop-be\obj\Debug\netcoreapp3.1\shop-be.csproj.CopyComplete
+C:\Users\Castro\source\repos\shop-be\shop-be\obj\Debug\netcoreapp3.1\staticwebassets\shop-be.StaticWebAssets.xml
+C:\Users\Castro\source\repos\shop-be\shop-be\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Castro\source\repos\shop-be\shop-be\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
