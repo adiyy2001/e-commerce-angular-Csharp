@@ -30,6 +30,11 @@ namespace shop_be
                 x => x.UseSqlite(_config.GetConnectionString("DefaultConnection"))
              );
             services.AddApplicationServices();
+            services.AddCors(opt =>
+            {
+                opt.AddPolicy("CorsPolicy",
+                    policy => { policy.AllowAnyHeader().AllowAnyMethod().WithOrigins("https://localhost:4200"); });
+            });
 
         }
 
@@ -43,7 +48,10 @@ namespace shop_be
             app.UseHttpsRedirection();
 
             app.UseRouting();
+
             app.UseStaticFiles();
+
+            app.UseCors("CorsPolicy");
 
             app.UseAuthorization();
 
